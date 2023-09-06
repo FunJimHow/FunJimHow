@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **FunJimHow/FunJimHow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| 这个作业属于哪个课程 |[这个课程](https://bbs.csdn.net/forums/ssynkqtd)|
-| ----------------- |--------------- |
-| 这个作业要求在哪里|[在这里](https://bbs.csdn.net/topics/617176123)
-| 这个作业的目标 | 自我介绍，学习博客和GitHub |
-| 学号 | 102101642 |
+
 
 ### 自我介绍
 Hello！是我，我是福州大学计算机与大数据学院2021级的一名普通学生。
@@ -37,18 +33,7 @@ Hello！是我，我是福州大学计算机与大数据学院2021级的一名�
 
 我还喜欢爬山(∗ᵒ̶̶̷̀ω˂̶́∗)੭₎₎̊₊♡爬山最重要的是看风景，领略青山不墨千秋画，绿水无弦万古琴。当然拍照留恋也是很重要的啦，我的拍照应该是另外一个门派，搞怪类型的，专门挑一些我觉得有趣的地方、角度、姿势拍照，哈哈哈。当然也会记录一些平时开心的时候，毕竟我又不是一直这么无忧无虑，毕竟代码人的头发没几个不秃的，搞得我好焦虑，等下，焦虑是不是也会加剧掉头发(ó﹏ò｡) 完蛋！我该怎么办？
 
-
-
 ![请添加图片描述](https://img-blog.csdnimg.cn/80a846d45fe8459898b4cf41828df814.jpeg)
-
-
-
-
-
-
-
-
-
 
 ## 自我评估
 ### 已经具备的能力
